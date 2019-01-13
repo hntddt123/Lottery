@@ -1,6 +1,6 @@
 # Lottery
 
-This is a fun Prize drawing lottery game
+This is a fun prize drawing lottery game
 
 1. Enter number of people in drawing
 2. Click 抽獎 will shuffle numbers
